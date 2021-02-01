@@ -8,7 +8,12 @@ body {
 .container {
     margin-top: 30px;
 }
-
+.content p {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-style: oblique;
+}
 .half-width {
     height: 570px;
     background: #222436;
